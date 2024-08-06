@@ -1,3 +1,11 @@
+# React Template
+
+## Setup
+* `npm install`
+* `npm run dev`
+
+Everything below this line is from the vite template
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
